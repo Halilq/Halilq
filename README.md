@@ -40,17 +40,6 @@ A personal finance application designed to help users understand their financial
 🌐 [finanalyze.app](https://finanalyze.app/)
 
 ---
-
-### Other Work
-
-#### TEL KG ADET HESAPLAMA
-
-Desktop software built for wire and steel mesh calculations in a real production environment.
-
-**Tech:** Python · Tkinter
-
-🔗 [View Repository](https://github.com/Halilq/TEL-KG-ADET-HESAPLAMA)
-
 ---
 
 ### Connect with Me
